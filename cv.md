@@ -15,5 +15,7 @@ Discord: konctant#8291
 
 Skype: kot_scsc
 
+Telegram: @kurils
+
 ### Language
 Russian, English
