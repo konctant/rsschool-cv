@@ -2,7 +2,7 @@
 ## Web developer
 
 ### About me
-I'm fond of IT technoligies. I've been learning HTML5 and CSS3 for 3 years. I was student on several classes in this sphere.
+I'm fond of IT technoligies. I've been learning HTML5 and CSS3 for 3 years. I was student on several classes in this sphere and keep improving my skills.
 
 ### Education
 I was graduated from Sakhalin State University in 2005.
