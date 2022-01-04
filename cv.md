@@ -1,5 +1,5 @@
 # Konstantin Nazarov
-## Web developer
+## Junior Frontend Developer
 
 ### About me
 I'm fond of IT. I've been learning HTML5, CSS3 and JS for 3 years. I was student on several classes in this sphere and keep improving my skills.
